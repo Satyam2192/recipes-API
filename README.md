@@ -23,7 +23,7 @@ Na.
 HTTP Method
 GET
 
-Endpoint
+Endpoint -
 /recipes
 
 # 2. Get Recipe by ID
@@ -36,7 +36,7 @@ Requires admin privileges.
 HTTP Method
 GET
 
-Endpoint
+Endpoint -
 /recipes/:id
 
 Parameters
@@ -53,7 +53,7 @@ Requires admin privileges.
 HTTP Method
 POST
 
-Endpoint
+Endpoint -
 /recipes
 
 Request Body
@@ -69,7 +69,7 @@ Requires admin privileges.
 HTTP Method
 PUT
 
-Endpoint
+Endpoint - 
 /recipes/:id
 
 Parameters
@@ -87,7 +87,7 @@ Requires admin privileges.
 HTTP Method
 DELETE
 
-Endpoint
+Endpoint - 
 /recipes/:id
 
 Parameters
