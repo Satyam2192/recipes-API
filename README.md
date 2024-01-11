@@ -13,6 +13,16 @@ The base URL for the API is:
 
 ## Endpoints
 
+# 0.Get Recipes based on Search Query
+Endpoint: 
+GET /recipes/search
+
+Parameters
+query (required): The search query to find matching recipes.
+
+Example Request:
+curl -X GET "http://your-api-base-url/recipes/search?query=spaghetti"
+
 # 1. Get All Recipes
 Description
 Retrieve a list of all recipes available in the database.
